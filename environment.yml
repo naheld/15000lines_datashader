@@ -1,0 +1,6 @@
+name: datashaderenv
+channels:
+  - defaults
+  - conda-forge
+prefix: /Users/noelle/miniconda3/envs/datashaderenv
+
