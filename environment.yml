@@ -2,5 +2,12 @@ name: datashaderenv
 channels:
   - defaults
   - conda-forge
+dependencies:
+  - bokeh
+  - holoviews
+  - datashader
+  - pandas
+  - numpy
+  - dask
 prefix: /Users/noelle/miniconda3/envs/datashaderenv
 
